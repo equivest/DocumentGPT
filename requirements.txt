@@ -1,0 +1,13 @@
+pandas
+#fastapi
+python-dotenv
+pydantic
+langchain
+#openpyxl
+tiktoken
+openai
+faiss-cpu
+pip-tools
+google-cloud-bigquery
+google-auth
+pandas-gbq 
